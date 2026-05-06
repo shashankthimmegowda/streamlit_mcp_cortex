@@ -1,0 +1,8 @@
+# CODEOWNERS file
+# This file defines code ownership for the repository.
+# Each line is a file pattern followed by one or more owners.
+# The owner can be referenced by their GitHub username, email, or team.
+
+# Default owner for everything in the repo
+* @dbt-quick-starts @ultimatefrisbie1
+
